@@ -1,5 +1,11 @@
+# OntFs Demo
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a demo to show basice OntFs functions:
+  1. Get File List
+  2. Upload
+  3. Download
+## Attention!
+To implement the steps feature for uploading and downloading, I hard coded the ontfs-js-sdk to enable a callback after progress status changes.
 ## Available Scripts
 
 In the project directory, you can run:
